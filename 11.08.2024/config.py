@@ -1,0 +1,2 @@
+TOKEN = "net"
+DATABASE = "database"
